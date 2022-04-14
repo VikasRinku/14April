@@ -1,6 +1,1 @@
 text A
-text B
-text A
-text B
-text A
-text B
