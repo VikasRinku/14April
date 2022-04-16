@@ -1,4 +1,2 @@
 text A
 text B
-text BB
-
